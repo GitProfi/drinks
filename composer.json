@@ -8,7 +8,12 @@
             "Gitprofi\\Drinksmachine\\": "src/"
         }
     },
-    "authors": [
+  "repositories": [{
+    "type": "git",
+    "url": "git@github.com:GitProfi/drinks.git"
+  }
+  ],
+  "authors": [
         {
             "name": "Leon Reitenbach",
             "email": "lreitenbach@schueler.hakzell.at"
