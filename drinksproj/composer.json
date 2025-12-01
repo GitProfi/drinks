@@ -1,0 +1,19 @@
+{
+    "name": "gitprofi/drinksproj",
+    "description": "A . . .",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gitprofi\\Drinksproj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leon Reitenbach",
+            "email": "lreitenbach@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
