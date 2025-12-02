@@ -8,6 +8,11 @@
             "Gitprofi\\Drinksproj\\": "src/"
         }
     },
+  "repositories": [{
+    "type": "git",
+    "url": "git@github.com:GitProfi/drinks.git"
+  }
+  ],
     "authors": [
         {
             "name": "Leon Reitenbach",
