@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a47d7f733f6c34bf280c56c608597108",
+    "packages": [
+        {
+            "name": "gitprofi/drinksmachine",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:GitProfi/drinksmachine.git",
+                "reference": "62bfff79c29669dc0632860b46dc4390230ba375"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Gitprofi\\Drinksmachine\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Leon Reitenbach",
+                    "email": "lreitenbach@schueler.hakzell.at"
+                }
+            ],
+            "description": "Library verbinden",
+            "time": "2025-12-02T18:40:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "gitprofi/drinksmachine": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

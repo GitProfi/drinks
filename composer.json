@@ -10,7 +10,7 @@
     },
   "repositories": [{
     "type": "git",
-    "url": "git@github.com:GitProfi/drinks.git"
+    "url": "git@github.com:GitProfi/drinksmachine.git"
   }
   ],
     "authors": [
@@ -20,5 +20,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "gitprofi/drinksmachine": "dev-main"
+    }
 }
